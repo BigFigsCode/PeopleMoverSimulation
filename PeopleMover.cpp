@@ -1,4 +1,4 @@
-//SOLUTION
+
 //  Program to simulate a "people mover" system.
 
 #include <iostream>
